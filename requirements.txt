@@ -1,0 +1,12 @@
+numpy==1.23.0
+pymongo
+torch
+tensorboard
+ultralytics
+opencv-python
+shutil
+random
+pathlib
+Pillow
+
+
